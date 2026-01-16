@@ -20,7 +20,11 @@ const translations = {
     // Hero
     'hero.greeting': 'Hello, I\'m',
     'hero.name': 'Mariem Said Mohamed',
-    'hero.title': 'Economics Graduate | Customer Service Professional',
+    'hero.title': 'Economics Graduate | Junior Data Analyst',
+    
+    // Projects
+    'projects.title': 'Projects',
+    'projects.empty': 'Projects coming soon...',
     'hero.description': 'An ambitious economics graduate seeking to enhance skills and knowledge through practical experience in a dynamic organization, aiming to contribute to the company\'s goals.',
     'hero.downloadCV': 'Download CV',
     
@@ -80,7 +84,11 @@ const translations = {
     // Hero
     'hero.greeting': 'مرحباً، أنا',
     'hero.name': 'مريم سعيد محمد',
-    'hero.title': 'خريجة اقتصاد | متخصصة خدمة عملاء',
+    'hero.title': 'خريجة اقتصاد | محللة بيانات مبتدئة',
+    
+    // Projects
+    'projects.title': 'المشاريع',
+    'projects.empty': 'المشاريع قريباً...',
     'hero.description': 'خريجة اقتصاد طموحة أسعى لتعزيز مهاراتي ومعرفتي من خلال الخبرة العملية في مؤسسة ديناميكية، وأهدف للمساهمة في تحقيق أهداف الشركة.',
     'hero.downloadCV': 'تحميل السيرة الذاتية',
     
